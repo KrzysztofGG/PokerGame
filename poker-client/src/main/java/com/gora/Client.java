@@ -38,7 +38,6 @@ public class Client {
                 logger.info("Trying to connect to " + myAddress.getHostName() + ":" +  myAddress.getPort() + "...%n");
 
                 ServerConnection server = new ServerConnection(myClient);
-                //tworzymy watek czytania z serwera
                 new Thread(server).start();
 
                 while (true) {
@@ -51,7 +50,6 @@ public class Client {
                 }
                 myClient.close();
                 logger.log(Level.INFO,"Closing Client connection...");
-                //System.exit(0);
             } catch (IOException e) {
                 logger.log(Level.WARNING, e.getMessage());
             }
