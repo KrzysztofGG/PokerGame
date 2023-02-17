@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94e448b0-6cdc-40f2-a5bc-c99421d3f25e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../samowolka/Java/TicTacToe/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../samowolka/Java/TicTacToe/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../samowolka/Java/TicTacToe/src/main/java/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/out_csv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/out_xlsx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/classes/com/gora/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/classes/faktury.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/classes/faktury.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/parser-main-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/com/gora/FileReaderCX$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/com/gora/FileReaderCX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/com/gora/Logger$Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/com/gora/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/exceptions/InvalidFileInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/exceptions/InvalidNumberOfArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/CompleteXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/header/Header.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/header/LocalDateAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/header/LocalDateTimeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/invoices/Invoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/invoices/InvoiceCtrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/invoices/InvoiceRow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/invoices/InvoiceRowCtrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/subject/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/subject/SubjectAddress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/subject/SubjectIdentifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/jacoco.exec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/parser-model-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/site/jacoco/jacoco.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/HeaderTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/InvoiceCtrlAndRowTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/ReaderTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/TEST-HeaderTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/TEST-InvoiceCtrlAndRowTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/TEST-ReaderTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/HeaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/InvoiceCtrlAndRowTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/ReaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/empty.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/test.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/target/sonar/.sonar_lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/target/sonar/report-task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parsery/testOutput.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/poker-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-client/src/main/java/pl/edu/agh/kis/pz1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-client/src/main/java/com/gora/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-client/src/test/java/pl/edu/agh/kis/pz1/ClientIntegTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-client/src/test/java/com/gora/ClientIntegTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/GameLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/ServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/ServerConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/test/java/pl/edu/agh/kis/pz1/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/test/java/com/gora/CardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/test/java/pl/edu/agh/kis/pz1/GameLogicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/test/java/com/gora/GameLogicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/test/java/pl/edu/agh/kis/pz1/HandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/test/java/com/gora/HandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/test/java/pl/edu/agh/kis/pz1/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/test/java/com/gora/PlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/poker-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-server/src/main/java/pl/edu/agh/kis/pz1/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-server/src/main/java/com/gora/Server.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2I2YyBJvxl985m8aiCy6xFQHDQi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tape/Desktop/Programowanie/PP/Java/PokerGameFinal&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.24120083&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tape\Desktop\Programowanie\PP\Java\PokerGameFinal" />
+      <recent name="C:\Users\Tape\Desktop\Programowanie\PP\Java\PokerGameFinal\poker-server\src\main\java" />
+      <recent name="C:\Users\Tape\Desktop\Programowanie\PP\Java\PokerGameFinal\poker-server" />
+      <recent name="C:\Users\Tape\Desktop\Programowanie\PP\Java\PokerGameFinal\poker-client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krzys\Desktop\masnoNi\Programowanie\PP\Java\PokerGameFinal\poker-model\src\test\java\pl\edu\agh\kis\pz1" />
+      <recent name="C:\Users\krzys\Desktop\masnoNi\Programowanie\PP\Java\PokerGameFinal\poker-model\src\test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="pl.edu.agh.kis.pz1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.edu.agh.kis.pz1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.gora.Client">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.agh.kis.pz1.Client" />
+      <module name="poker-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.agh.kis.pz1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.agh.kis.pz1.Server" />
+      <module name="poker-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.agh.kis.pz1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.gora.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gora.Client" />
+      <module name="poker-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.gora.Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gora.Server" />
+      <module name="poker-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poker-model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.agh.kis.pz1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.agh.kis.pz1" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.agh.kis.pz1.PlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.com.gora.Client" />
+      <item itemvalue="Application.com.gora.Server" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="JUnit.PlayerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.gora.Client" />
+        <item itemvalue="Application.com.gora.Server" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.PlayerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e448b0-6cdc-40f2-a5bc-c99421d3f25e" name="Changes" comment="" />
+      <created>1669381414464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669381414464</updated>
+      <workItem from="1669381417803" duration="2591000" />
+      <workItem from="1669384510324" duration="4974000" />
+      <workItem from="1669467844799" duration="310000" />
+      <workItem from="1669471328918" duration="112000" />
+      <workItem from="1669471495996" duration="3458000" />
+      <workItem from="1669481602864" duration="993000" />
+      <workItem from="1669482619186" duration="728000" />
+      <workItem from="1669483368004" duration="3834000" />
+      <workItem from="1669567096149" duration="36000" />
+      <workItem from="1669567145378" duration="5633000" />
+      <workItem from="1669572989808" duration="2154000" />
+      <workItem from="1669575514635" duration="9557000" />
+      <workItem from="1669639376550" duration="53000" />
+      <workItem from="1669642147784" duration="2232000" />
+      <workItem from="1669656623588" duration="3053000" />
+      <workItem from="1669659756234" duration="696000" />
+      <workItem from="1669666540414" duration="788000" />
+      <workItem from="1669716933089" duration="4261000" />
+      <workItem from="1669740091065" duration="5516000" />
+      <workItem from="1669746256045" duration="2492000" />
+      <workItem from="1669754402552" duration="1644000" />
+      <workItem from="1669760216434" duration="257000" />
+      <workItem from="1669792129026" duration="1451000" />
+      <workItem from="1669795953072" duration="358000" />
+      <workItem from="1669799436657" duration="3336000" />
+      <workItem from="1669815522677" duration="543000" />
+      <workItem from="1670447099965" duration="51000" />
+      <workItem from="1671044108269" duration="329000" />
+      <workItem from="1671393400423" duration="602000" />
+      <workItem from="1671562570077" duration="68000" />
+      <workItem from="1671563592899" duration="425000" />
+      <workItem from="1674941475361" duration="1150000" />
+      <workItem from="1675275861808" duration="2276000" />
+      <workItem from="1675352809381" duration="3114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
