@@ -81,6 +81,7 @@ public class GameLogic {
         for(Player p : clients.values()){
             p.nextRoundStarts();
             if(p.getBalance() == 0){
+                p.isBankrupt = true;
                 p.setState(Player.State.FOLD);
             }
         }
@@ -158,12 +159,13 @@ public class GameLogic {
      * @return true if game should end
      */
     public boolean shouldGameEnd(){
-        if(bettingTurn != 4)
-            return false;
+//        if(bettingTurn != 4)
+//            return false;
 
         int playersBankrupt = 0;
         for(Player p : clients.values()){
-            if(p.getBalance() == 0)
+//            if(p.getBalance() == 0)
+            if(p.isBankrupt)
                 playersBankrupt++;
         }
         if(playersBankrupt == clients.size()-1){

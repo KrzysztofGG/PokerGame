@@ -17,6 +17,8 @@ public class Player implements Comparable<Player>{
     protected int currentBet;
     protected Role role;
 
+    boolean isBankrupt = false;
+
     protected boolean isSwapping = false;
 
     protected State state;

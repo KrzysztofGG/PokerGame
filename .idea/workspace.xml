@@ -5,75 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94e448b0-6cdc-40f2-a5bc-c99421d3f25e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../samowolka/Java/TicTacToe/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../samowolka/Java/TicTacToe/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../samowolka/Java/TicTacToe/src/main/java/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/out_csv.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/out_xlsx.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/classes/com/gora/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/classes/faktury.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/classes/faktury.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-main/target/parser-main-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/com/gora/FileReaderCX$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/com/gora/FileReaderCX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/com/gora/Logger$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/com/gora/Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/exceptions/InvalidFileInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/exceptions/InvalidNumberOfArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/CompleteXML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/header/Header.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/header/LocalDateAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/header/LocalDateTimeAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/invoices/Invoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/invoices/InvoiceCtrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/invoices/InvoiceRow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/invoices/InvoiceRowCtrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/subject/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/subject/SubjectAddress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/classes/xml/subject/SubjectIdentifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/jacoco.exec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/parser-model-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/site/jacoco/jacoco.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/HeaderTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/InvoiceCtrlAndRowTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/ReaderTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/TEST-HeaderTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/TEST-InvoiceCtrlAndRowTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/surefire-reports/TEST-ReaderTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/HeaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/InvoiceCtrlAndRowTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/ReaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/empty.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/parser-model/target/test-classes/test.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/target/sonar/.sonar_lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/target/sonar/report-task.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parsery/testOutput.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/poker-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-client/src/main/java/pl/edu/agh/kis/pz1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-client/src/main/java/com/gora/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-client/src/test/java/pl/edu/agh/kis/pz1/ClientIntegTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-client/src/test/java/com/gora/ClientIntegTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/GameLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Hand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/pl/edu/agh/kis/pz1/ServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/ServerConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/test/java/pl/edu/agh/kis/pz1/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/test/java/com/gora/CardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/test/java/pl/edu/agh/kis/pz1/GameLogicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/test/java/com/gora/GameLogicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/test/java/pl/edu/agh/kis/pz1/HandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/test/java/com/gora/HandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/test/java/pl/edu/agh/kis/pz1/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/test/java/com/gora/PlayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/poker-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-server/src/main/java/pl/edu/agh/kis/pz1/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-server/src/main/java/com/gora/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-client/target/classes/com/gora/Client$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-client/target/classes/com/gora/Client$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/GameLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/target/classes/com/gora/GameLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/target/classes/com/gora/GameLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player$Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player$Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player$State.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player$State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-server/src/main/java/com/gora/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-server/src/main/java/com/gora/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poker-server/target/classes/com/gora/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-server/target/classes/com/gora/Server.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -176,7 +118,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.gora.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.gora.Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gora.Client" />
       <module name="poker-client" />
       <extension name="coverage">
@@ -276,6 +218,7 @@
       <workItem from="1674941475361" duration="1150000" />
       <workItem from="1675275861808" duration="2276000" />
       <workItem from="1675352809381" duration="3114000" />
+      <workItem from="1676666117124" duration="2388000" />
     </task>
     <servers />
   </component>

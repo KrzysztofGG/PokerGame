@@ -66,14 +66,15 @@ public class Server {
                     startGame();
                 }
                 if(gameStarted){
+                    if(game.shouldGameEnd()){
+                        endGame();
+                        }
+
                     if(game.shouldRoundEnd()){
                         startNextRound();
                     }
 
 
-                    if(game.shouldGameEnd()){
-                        endGame();
-                        }
 
 
                     if(game.shouldTurnEnd()){
@@ -94,9 +95,9 @@ public class Server {
                             sendInfoCardSwapping();
                             game.shouldServerSendSwapInfo = false;
                         }
-                        if(game.shouldSwappingEnd()){
+                        if(game.cardSwapping && game.shouldSwappingEnd()){
                             game.cardSwapping = false;
-                            //figureOutWhoStarts();
+                            figureOutWhoStarts();
                             serverToAll("betting Turn " + game.bettingTurn + "\n");
                             sendMoveInfo((SocketChannel)connectedUsers.keySet().toArray()[playerMoveIndex]);
                         }
