@@ -75,8 +75,6 @@ public class Server {
                     }
 
 
-
-
                     if(game.shouldTurnEnd()){
                         game.nextTurn();
                         //figureOutWhoStarts();

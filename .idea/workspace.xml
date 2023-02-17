@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94e448b0-6cdc-40f2-a5bc-c99421d3f25e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-client/target/classes/com/gora/Client$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-client/target/classes/com/gora/Client$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/GameLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/src/main/java/com/gora/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/target/classes/com/gora/GameLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/target/classes/com/gora/GameLogic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player$Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player$Role.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player$State.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player$State.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-model/target/classes/com/gora/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-server/src/main/java/com/gora/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/poker-server/src/main/java/com/gora/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poker-server/target/classes/com/gora/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/poker-server/target/classes/com/gora/Server.class" afterDir="false" />
-    </list>
+    <list default="true" id="94e448b0-6cdc-40f2-a5bc-c99421d3f25e" name="Changes" comment="bug fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,8 +206,16 @@
       <workItem from="1674941475361" duration="1150000" />
       <workItem from="1675275861808" duration="2276000" />
       <workItem from="1675352809381" duration="3114000" />
-      <workItem from="1676666117124" duration="2388000" />
+      <workItem from="1676666117124" duration="2855000" />
     </task>
+    <task id="LOCAL-00001" summary="bug fix">
+      <created>1676668655806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676668655806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,5 +231,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
   </component>
 </project>
