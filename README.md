@@ -42,8 +42,8 @@ if all players except one are bankrupt the game ends.
 ### How it looks like in action 
 2 players game, User1 POV:
 
-![My Image](img/1.PNG)
-![My Image](img/2.PNG)
-![My Image](img/3.PNG)
+![My Image](img/1.PNG)<br/>
+![My Image](img/2.PNG)<br/>
+![My Image](img/3.PNG)<br/>
 ![My Image](img/4.PNG)
 
